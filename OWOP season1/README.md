@@ -8,5 +8,6 @@
 
 ## Presentation
 - 01 Efficient Estimation of Word Representations in Vector Space
-  - Talk : 송민수 (2021.01.04) | Lecture | Summary
-- 02 
+  - Talk : 송민수 (2021.01.04)
+- 02 Multiresunet : Rethinking the u-net architecture for multimodal biomedical image segmentation
+  - Talk : 조유민 (2021.01.11)

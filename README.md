@@ -15,6 +15,9 @@
 - Convolutional Neural Networks for Sentence Classification (EMNLP 2014)
   - [Paper Link](https://www.aclweb.org/anthology/D14-1181/) | Summary | [Code](/code/Convolutional%20Neural%20Networks%20for%20Sentence%20Classification%20(EMNLP%202014))
   - key word : cnn, text classification
+- Sequence to Sequence Learning with Neural Networks (2014)
+  - [Paper Link](https://arxiv.org/abs/1409.3215) | Summary | Code
+  - Key word : seq2seq
 
 ### Generative
 - Generatice Adversarial Nets (NIPS 2014)
@@ -25,3 +28,8 @@
 - What Does Label Smoothing Help? (NIPS 2019)
   - [Paper Link](https://papers.nips.cc/paper/2019/hash/f1748d6b0fd9d439f71450117eba2725-Abstract.html) | [Summary](/summary/When%20does%20label%20smoothing%20help.pdf) | Code
   - Key word : generalization, label smoothing, knowledge distillation
+
+### Imbalanced Learning
+- Learning from imbalanced data: open challenges and future directions (survey article 2016)
+  - [Paper Link](https://link.springer.com/article/10.1007/s13748-016-0094-0) | Summary | Code
+  - key word : imbalanced learning, anomaly detection

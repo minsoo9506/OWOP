@@ -14,3 +14,7 @@
   - `Talk` : 조유민 (2021.01.11)
 - 03 Dropoout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning
   - `Talk` : 전예슬 (2021.01.18)
+- 04 NLP Basics
+  - `Talk` : 이주영 (2021.01.25)
+- 05 Stochastic Variational Inference & Variational Autoencoder
+  - `Talk` : 이승한 (2021.02.01)

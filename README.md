@@ -29,6 +29,9 @@
 - Attention is All You Need (NIPS 2017)
   - [`Paper Link`](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) | `Summary` | `Code`
   - `Key Word` : transformer, self-attention, no more rnn
+- Self-Supervised Learning for Contextualized Extractive Summarization (arXiv 2019)
+  - [`Paper link`](https://arxiv.org/abs/1906.04466) | `Summary` | `Code`
+  - `Key Word` : extractive summarization, self-supervised
 
 ### Generative
 - Generatice Adversarial Nets (NIPS 2014)
@@ -82,3 +85,9 @@
   - `Key Word` : smote
 
 ### Deep Anomaly Detection
+- Deep Learning for Anomaly Detection A Review (2020)
+  - [`Paper Link`](https://arxiv.org/pdf/2007.02500.pdf) | `Summary` | `Code`
+  - `Key Word` : deep anomaly detection
+- Outlier Detection with AutoEncoder Ensemble (2017)
+  - [`Paper Link`](https://saketsathe.net/downloads/autoencode.pdf) | `Summary` | `Code`
+  - `Key Word` : autoencoder, ensemble

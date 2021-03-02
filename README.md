@@ -1,4 +1,4 @@
-# 머신러닝 관련 논문 리딩 스터디
+# OWOP (One Week One Paper)
 - `Paper Reading` study
 - Zoom meeting once a week
 
@@ -7,7 +7,7 @@
   
 ### Member
 - 연세대학교 통계데이터사이언스학과 석박사 6명
-  - 남승지, 송민수, 이승한, 이주영, 전예슬, 조유민
+  - (남승지)민동은, 송민수, 이승한, 이주영, 전예슬, 조유민
 
 |이름|주요발제주제|
 |------|---|
@@ -16,7 +16,7 @@
 |이주영|NLP|
 |전예슬|Deep Learning Estimation, Deep Learning Uncertainty|
 |조유민|Computer Vision|
-|||
+|민동은|Recommendation System|
 
 ### Presentation
 - 01 Efficient Estimation of Word Representations in Vector Space
@@ -37,3 +37,6 @@
   - `Talk` : 조유민 (2021.02.22)
 - 09 Bayesian Convolutional Neural Networks with Bernoulli Approximate Variational Inference (2016)
   - `Talk` : 전예슬 (2021.03.01)
+
+## OWOP season2
+- 2021.07 ~ 2021.12 (6 month)

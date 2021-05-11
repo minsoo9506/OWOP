@@ -55,6 +55,11 @@
 - 13
 - 14 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
   - `Talk` : 이주영 (2021.04.19)
+- 15 Flow-based Models (Paper List*)
+  - `Talk` : 이승한 (2021.04.26)
+- 16 
+- 17 DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION(ICLR2018)
+  - `Talk` : 송민수 (2021.05.11)
 
 ## OWOP season2
 - 2021.07 ~ 2021.12 (6 month)

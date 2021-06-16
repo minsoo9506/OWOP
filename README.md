@@ -46,20 +46,36 @@
   - Masked Autoregressive Flow for Density Estimation ( Papamakarios et al., 2017)
   - Glow : Generative Flow with Invertible 1x1 Convolutions ( Kingma and Dhariwal, 2018)
   - `Talk` : 이승한 (2021.03.15)
-- 10 Embarrassingly Shallow Autoencoders for Sparse Data
+- 11 Embarrassingly Shallow Autoencoders for Sparse Data
   - `Talk` : 민동은 (2021.03.22)
-- 11 USAD : UnSupervised Anomaly Detection on multivariate time series (KDD2020)
+- 12 USAD : UnSupervised Anomaly Detection on multivariate time series (KDD2020)
   - `Talk` : 송민수 (2021.03.29)
-- 12 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(2019)
+- 13 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks(2019)
   - `Talk` : 조유민 (2021.04.05)
-- 13
-- 14 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+- 14
+  - `Talk` : 전예슬 (2021.04.12)
+- 15 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
   - `Talk` : 이주영 (2021.04.19)
-- 15 Flow-based Models (Paper List*)
+- 16 Flow-based Models (Paper List*)
   - `Talk` : 이승한 (2021.04.26)
-- 16 
-- 17 DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION(ICLR2018)
+- 17 
+- 18 DEEP AUTOENCODING GAUSSIAN MIXTURE MODEL FOR UNSUPERVISED ANOMALY DETECTION(ICLR2018)
   - `Talk` : 송민수 (2021.05.11)
+- 19 YOLOv4: Optimal Speed and Accuracy of Object Detection
+  - `Talk` : 조유민 (2021.05.17)
+- 20
+  - `Talk` : 전예슬 (2021.05.24)
+- 21 Flow-based Models (Paper List*)
+  - Non-linear Independent Components Estimation (NICE) ( Dinh et al., 2014 )
+  - MADE : Masked Autoencoder for Distribution Estimation ( Germain et al., 2015)
+  - Variational Inference with Normalizing Flows ( Rezende and Mohamed, 2016 )
+  - Improved Variational Inference with Inverse Autoregressive Flow ( Kingma et al., 2016)
+  - Density Estimation using Real NVP ( Dinh et al., 2017 )
+  - Masked Autoregressive Flow for Density Estimation ( Papamakarios et al., 2017)
+  - Glow : Generative Flow with Invertible 1x1 Convolutions ( Kingma and Dhariwal, 2018)
+  - `Talk` : 이승한 (2021.05.31)
+- 22
+  - `Talk` : 민동은 (2021.06.07)
 
 ## OWOP season2
 - 2021.07 ~ 2021.12 (6 month)

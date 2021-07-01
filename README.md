@@ -1,22 +1,19 @@
 # OWOP (One Week One Paper)
-- `Paper Reading` study
+- Paper Review study
 - Zoom meeting once a week
+- 본인의 관심분야 이외의 주제에 대해서도 간접적으로 알아보고 문제해결력을 높여보자
+- 다양한 주제의 머신러닝, 딥러닝 논문리뷰
 
 ## OWOP season1
-- 다양한 주제의 논문 공유
 - 2021.01 ~ 2021.06 (6 month)
 - Member
   - 연세대학교 통계데이터사이언스학과 석박사 6명
-  - 남승지->민동은, 송민수, 이승한, 이주영, 전예슬, 조유민
-
-|이름|주요발제주제|
-|------|---|
-|송민수|Anomaly Detection, Imbalanced learning|
-|이승한|Bayesian Neural Network, Deep Learning Uncertainty, VI|
-|이주영|NLP|
-|전예슬|Deep Learning Estimation, Deep Learning Uncertainty|
-|조유민|Computer Vision|
-|민동은|Recommendation System|
+- 주제
+  - Anomaly Detection
+  - Bayesian Neural Network, Deep Learning Uncertainty
+  - NLP
+  - Computer Vision
+  - Recommendation System
 
 ### Presentation
 - 01 Efficient Estimation of Word Representations in Vector Space
@@ -79,3 +76,10 @@
 
 ## OWOP season2
 - 2021.07 ~ 2021.12 (6 month)
+- Member
+  - 연세대학교 통계데이터사이언스학과 석박사 12명
+- 주제
+  - Time Series
+  - AutoEncoder
+  - Recommendation System
+  - Machine Learning

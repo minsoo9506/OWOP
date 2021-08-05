@@ -83,3 +83,12 @@
   - AutoEncoder
   - Recommendation System
   - Machine Learning
+- [영상](https://www.youtube.com/channel/UCg7qqlsEjz0jKc91UIlwk6w)
+
+### Presentation
+- 01 Deep and Confident Prediction for Time Series at Uber
+  - `Talk` : 송민수 (2021.07.19)
+- 02 Auto-Encoding Variational Bayes
+  - `Talk` : 전예슬 (2021.07.26)
+- 03 A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation
+  - `Talk` : 한소영 (2021.08.02)
